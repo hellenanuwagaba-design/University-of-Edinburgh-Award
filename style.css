@@ -15,7 +15,7 @@ body, html {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #b30000; /* blue */
+  color: #0466c8; /* blue */
   max-width: 600px;
   text-align: center; 
 }
